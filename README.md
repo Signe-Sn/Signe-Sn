@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋, my name is Signe!
 
-<!--
-**Signe-Sn/Signe-Sn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer looking to expand my knowledge and create many interesting and challenging projects.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a Flight-Planner project using Spring Boot Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Java, particularly Spring Boot and how to implement databases. 
+
+Down below you can see the projects I am currently working on. 
+
+📫 How to reach me: 
+
+Email: Signe.Snt@Gmail.Com
+
+LinkedIn: https://www.linkedin.com/in/signe-snucite/
+
+
+
