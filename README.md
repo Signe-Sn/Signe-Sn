@@ -6,7 +6,7 @@ I am a software developer looking to expand my knowledge and create many interes
     
 🌱  I’m learning Java, particularly Spring Boot and how to implement databases. 
 
-    I am also working on a planner project with Angular. Beginning to learn HTML and CSS, and refreshing my knowledge of TypeScript.
+🌱  I am also working on a planner project with Angular. Beginning to learn HTML and CSS, and refreshing my knowledge of TypeScript.
  
 Down below you can see the projects I am currently working on. 
 
