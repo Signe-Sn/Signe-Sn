@@ -8,8 +8,6 @@
 💻 I am currently working on a [flight-Planner](https://github.com/Signe-Sn/flight-planner) project using Spring Boot Framework and SQL.
 
 🎇 I am also working on a Planner project with Angular. Beginning to learn HTML and SCSS, and refreshing my knowledge of TypeScript.
- 
-🔨 Down below you can see the projects I am currently working on!
 
 ### 📫 You can reach me on: 
 
